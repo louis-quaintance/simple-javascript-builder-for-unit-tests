@@ -1,4 +1,3 @@
-/** Outer container */
 function ExampleBuilder() {
     this.model = {};
 }
